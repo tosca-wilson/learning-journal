@@ -14,4 +14,6 @@ Today's section of the course was almost entirely revision from bootcamp materia
 
 6 Jan 2020
 
+Continued JS course. Completed CC2. Time logged = 
+
 Gained some clarification around falsy and truthy values. 
