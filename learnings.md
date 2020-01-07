@@ -17,3 +17,10 @@ Today's section of the course was almost entirely revision from bootcamp materia
 Continued JS course. Completed CC2. Time logged = 1hr
 
 Gained some clarification around falsy and truthy values. 
+
+
+7 Jan 2020
+
+Continued JS course. Completed CC3. Time logged = 
+
+Covered functions, went over difference between expressions and statements. Also covered basic array concepts. 
