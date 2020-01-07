@@ -21,6 +21,6 @@ Gained some clarification around falsy and truthy values.
 
 7 Jan 2020
 
-Continued JS course. Completed CC3. Time logged = 
+Continued JS course. Completed CC3. Time logged = 45min 
 
-Covered functions, went over difference between expressions and statements. Also covered basic array concepts. 
+Covered functions, went over difference between expressions and statements. Also covered basic array methods, such as push, pop, shift, indexof etc. 
