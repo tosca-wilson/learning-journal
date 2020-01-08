@@ -27,6 +27,6 @@ Covered functions, went over difference between expressions and statements. Also
 
 8 Jan 2020
 
-Continued JS course. Completed S1 CC4 & 5. Time logged =  
+Continued JS course. Completed S1 CC4 & 5. Time logged = 2hr
 
-Covered objects, properties and methods. The refresher on methods being an object property containing a function definition was useful.  
+Covered objects, properties and methods. The refresher on methods being an object property containing a function definition was useful.  Also covered loops and iteration. 
