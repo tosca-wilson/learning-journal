@@ -11,17 +11,22 @@ Continued JS course. Completed S2 CC2. Time logged = 1hr
 Gained some clarification around falsy and truthy values. 
 
 7 Jan 2020
-Continued JS course. Completed S2 CC3. Time logged = 45min 
+JS course. Completed S2 CC3. Time logged = 45min 
 Covered functions, went over difference between expressions and statements. Also covered basic array methods, such as push, pop, shift, indexof etc. 
 
 8 Jan 2020
-Continued JS course. Completed S2 CC4 & 5. Time logged = 2hr
+JS course. Completed S2 CC4 & 5. Time logged = 2hr
 Covered objects, properties and methods. The refresher on methods being an object property containing a function definition was useful.  Also covered loops and iteration. 
 
 9 Jan 2020
-Continued JS course. Completed Section3 . Time logged = 45min
+JS course. Completed Section3 . Time logged = 45min
 Went over how JS works behind the scenes in terms of execution. 
 
 10 Jan 2020
-Continued JS course. Completed Section3 . Time logged = 45min
+JS course. Completed Section3 . Time logged = 45min
 Covered hoisting and scoping, and the 'this' keyword. 
+
+11 Jan 2020
+JS course. Completed Section3 . Time logged = 
+JS in the browser.
+
