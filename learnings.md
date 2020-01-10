@@ -24,4 +24,4 @@ Went over how JS works behind the scenes in terms of execution.
 
 10 Jan 2020
 Continued JS course. Completed Section3 . Time logged = 45min
-Covered hoisting and scoping. 
+Covered hoisting and scoping, and the 'this' keyword. 
