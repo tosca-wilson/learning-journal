@@ -19,14 +19,18 @@ JS course. Completed S2 CC4 & 5. Time logged = 2hr
 Covered objects, properties and methods. The refresher on methods being an object property containing a function definition was useful.  Also covered loops and iteration. 
 
 9 Jan 2020
-JS course. Completed Section3 . Time logged = 45min
+JS course. Completed Section3. Time logged = 45min
 Went over how JS works behind the scenes in terms of execution. 
 
 10 Jan 2020
-JS course. Completed Section3 . Time logged = 45min
+JS course. Completed Section3. Time logged = 45min
 Covered hoisting and scoping, and the 'this' keyword. 
 
 11 Jan 2020
-JS course. Completed Section3 . Time logged = 
+JS course. Started Section4. Time logged = 25min
 JS in the browser.
+
+12 Jan 2020
+JS Course. Continued with Section4. Time logged = 
+Started working on Pig Game. 
 
