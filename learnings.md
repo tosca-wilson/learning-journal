@@ -31,6 +31,9 @@ JS course. Started Section4. Time logged = 25min
 JS in the browser.
 
 12 Jan 2020
-JS Course. Continued with Section4. Time logged = 
+JS Course. Continued with Section4. Time logged = 25min
 Started working on Pig Game. 
 
+13 Jan 2020
+JS Course. Continued with Section4. Time logged = 20min
+Continued Pig Game. Tutorial covered DOM access and manipulation using querySelector method. 
